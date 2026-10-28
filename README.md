@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ilkergun
-- 👀 I’m interested in Frontend development in Javascript React
-- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me "ilkergun96@gmail.com"
 
